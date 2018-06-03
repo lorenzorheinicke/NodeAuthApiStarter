@@ -7,7 +7,7 @@ Basic Node Auth API starter project, that can be used for web (e.g. ReactJS app)
 Checkout this repo, install dependencies, then run `npm run dev`:
 
 ```
-> git clone https://github.com/StephenGrider/NodeAuthApiStarter.git
+> git clone https://github.com/lorenzorheinicke/NodeAuthApiStarter.git
 > cd NodeAuthApiStarter
 > npm install
 > npm run dev
